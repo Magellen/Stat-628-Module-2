@@ -10,5 +10,6 @@ useful R packages
 
 tm: https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf
 
+idea from kaggle: https://www.kaggle.com/c/yelp-recruiting/discussion/4980
 
 
